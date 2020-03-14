@@ -4,9 +4,15 @@ Notes of things I learned. Hope it can help me retain the knowledges.
 
 ## Categories
 
+- [Git](#git)
 - [Go](#go)
 - [Windows](#windows)
+
 ---
+
+### Git
+
+- [Dry Run in Git](git/dry-run-in-git.md)
 
 ### Go
 
