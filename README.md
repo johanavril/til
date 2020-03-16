@@ -17,6 +17,7 @@ Notes of things I learned. Hope it can help me retain the knowledges.
 ### Go
 
 - [Benchmark Go Code](go/benchmark-go-code.md)
+- [Escape Analysis in Go](go/escape-analysis-in-go.md)
 - [Omit Non-empty JSON Field](go/omit-non-empty-json-field.md)
 - [Slice Resize Factor](go/slice-resize-factor.md)
 
