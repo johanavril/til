@@ -12,6 +12,7 @@ Notes of things I learned. Hope it can help me retain the knowledges.
 
 ### Git
 
+- [Diff Between Branches](git/diff-between-branches.md)
 - [Dry Run in Git](git/dry-run-in-git.md)
 
 ### Go
